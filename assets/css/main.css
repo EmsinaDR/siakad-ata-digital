@@ -1978,7 +1978,8 @@ ol {
 .hero-area {
   position: relative;
   padding: 180px 0 120px 0;
-  background: #ff6b81;
+  /*background: #ff6b81; pink*/
+  background: #00971c;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
