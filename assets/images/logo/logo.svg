@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW -->
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="60.9461mm" height="9.0489mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 3057 454"
+viewBox="0 0 4431 658"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
@@ -337,22 +337,22 @@ viewBox="0 0 3057 454"
     .fil0 {fill:#373435}
     .fil2 {fill:#F58634}
     .fil1 {fill:#3E4095}
-    .fnt1 {font-weight:500;font-size:118px;font-family:'Brush Script Std'}
-    .fnt0 {font-weight:normal;font-size:425px;font-family:'Drip October'}
-    .fnt2 {font-weight:normal;font-size:425px;font-family:'Drip October'}
+    .fnt1 {font-weight:500;font-size:171px;font-family:'Brush Script Std'}
+    .fnt0 {font-weight:normal;font-size:616px;font-family:'Drip October'}
+    .fnt2 {font-weight:normal;font-size:616px;font-family:'Drip October'}
    ]]>
   </style>
    <clipPath id="id0">
-    <rect width="511" height="422"/>
+    <rect width="740" height="612"/>
    </clipPath>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <text x="610" y="299"  class="fil0 fnt0">Ata Digital</text>
-  <text x="520" y="424"  class="fil1 fnt1">Melayani dengan Data, Membimbing dengan Digital</text>
-  <text x="571" y="299"  class="fil2 fnt2">Ata Digital</text>
+  <text x="884" y="434"  class="fil0 fnt0">Ata Digital</text>
+  <text x="754" y="615"  class="fil1 fnt1">Melayani dengan Data, Membimbing dengan Digital</text>
+  <text x="827" y="434"  class="fil2 fnt2">Ata Digital</text>
   <g style="clip-path:url(#id0)">
-   <image x="0" y="0" width="511" height="422" xlink:href="logo_Images\logo_ImgID1.png"/>
+   <image x="0" y="0" width="740" height="612" xlink:href="logo_Images/logo_ImgID1.png"/>
   </g>
  </g>
 </svg>
